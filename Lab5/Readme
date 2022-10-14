@@ -1,2 +1,2 @@
 題目:
-在FPGA板子上亮CSIE
+在FPGA板子上亮使用Sequential (Behavior) 語法實作 CSIE 跑馬燈(需除頻)。
