@@ -1,7 +1,7 @@
 /**
  *
- * @author : 409410029
- * @latest changed : 2022/5/8 12:34
+ * @author : 
+ * @latest changed : 
  */
 
 module lab10(input clk,
